@@ -7,3 +7,5 @@ Sentiment Analysis is defined as the process of mining of data, views, sentences
 In this project, I aim to perform Sentiment Analysis on the movie database i.e movie reviews database. Data used in this project can be seen here - http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
 
 We will be using several Python libraries and frameworks specific to text analytics, NLP, and ML. Dependencies - Pandas, NumPy, sci-kit-learn, scipy. NLKT version should be >= 3.2.4, otherwise, TokToktokenizer may not present.
+
+You can go through tha blog on Medium.com - https://medium.com/@sohamsahare123/sentiment-analysis-using-nlp-4618be744f0
